@@ -1,0 +1,5 @@
+﻿  pplap.cpp
+E:\c#\pplap\pplap\pplap.cpp(5,32): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+E:\c#\pplap\pplap\pplap.cpp(8,29): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+E:\c#\pplap\pplap\pplap.cpp(11,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+  pplap.vcxproj -> E:\c#\pplap\x64\Debug\pplap.exe

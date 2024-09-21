@@ -1,0 +1,7 @@
+E:\c#\bth6\bth6\bin\Debug\bth6.exe.config
+E:\c#\bth6\bth6\bin\Debug\bth6.exe
+E:\c#\bth6\bth6\bin\Debug\bth6.pdb
+E:\c#\bth6\bth6\obj\Debug\bth6.csproj.AssemblyReference.cache
+E:\c#\bth6\bth6\obj\Debug\bth6.csproj.CoreCompileInputs.cache
+E:\c#\bth6\bth6\obj\Debug\bth6.exe
+E:\c#\bth6\bth6\obj\Debug\bth6.pdb

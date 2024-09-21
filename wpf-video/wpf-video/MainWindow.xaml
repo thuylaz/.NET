@@ -1,0 +1,28 @@
+﻿<Window x:Class="wpf_video.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wpf_video"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid x:Name="text" AutomationProperties.Name="{Binding ActualHeight, ElementName=text, Mode=OneWay}" AutomationProperties.HelpText="time" ScrollViewer.VerticalScrollBarVisibility="Disabled" RenderTransformOrigin="0.107,0.548">
+        <Label Content="Họ Đệm: " HorizontalAlignment="Left" Margin="66,52,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="20" Width="120" Height="30"/>
+        <Label Content="Tên: " HorizontalAlignment="Left" Margin="66,125,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.178,-2.263" FontFamily="Times New Roman" FontSize="20" Width="120" Height="30"/>
+        <Label Content="Giới tính: " HorizontalAlignment="Left" Margin="66,191,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.178,-2.263" FontFamily="Times New Roman" FontSize="20" Width="120" Height="30"/>
+        <Label Content="Ngoại ngữ: " HorizontalAlignment="Left" Margin="66,255,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.178,-2.263" FontFamily="Times New Roman" FontSize="20" Width="120" Height="36"/>
+        <Label Content="Quê quán: " HorizontalAlignment="Left" Margin="66,303,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.178,-2.263" FontFamily="Times New Roman" FontSize="20" Width="120" Height="35"/>
+        <TextBox Name="txtten" HorizontalAlignment="Left" Margin="258,130,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="200" FontFamily="Times New Roman" FontSize="20" Height="30"/>
+        <TextBox Name="txthodem" HorizontalAlignment="Left" Margin="258,64,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="200" RenderTransformOrigin="0.147,-4.096" FontFamily="Times New Roman" FontSize="20" Height="30"/>
+        <RadioButton Name="radioNam" Content="Nam" IsChecked="True" HorizontalAlignment="Left" Margin="255,200,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="20" GroupName="gioitinh"/>
+        <RadioButton Name="radioNu" Content="Nữ" IsChecked="False" HorizontalAlignment="Left" Margin="408,200,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="20" GroupName="gioitinh"/>
+        <CheckBox Name="chkAnh" Content="Tiếng anh" HorizontalAlignment="Left" Margin="380,271,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="20"/>
+        <CheckBox Name="chkTrung" Content="Tiếng Trung" HorizontalAlignment="Left" Margin="232,271,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="20"/>
+        <ComboBox Name="cboque" HorizontalAlignment="Left" Margin="232,310,0,0" VerticalAlignment="Top" Width="120" FontFamily="Times New Roman" FontSize="20" SelectedIndex="0">
+            <ComboBoxItem>Hà Nội</ComboBoxItem>
+            <ComboBoxItem>Nam Định</ComboBoxItem>
+        </ComboBox>
+        <Button Name="butxem" Content="Xem thông tin" HorizontalAlignment="Left" Margin="209,364,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="20" Width="150" Height="30" Click="butxem_Click"/>
+        <Button Name="butnhap" Content="Nhập lại" HorizontalAlignment="Left" Margin="400,364,0,0" VerticalAlignment="Top" RenderTransformOrigin="4.2,-1.14" FontFamily="Times New Roman" FontSize="20" Width="150" Height="30" Click="butnhap_Click"/>
+    </Grid>
+</Window>

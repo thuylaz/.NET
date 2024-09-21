@@ -1,0 +1,7 @@
+E:\c#\kteam1\kteam1\bin\Debug\kteam1.exe.config
+E:\c#\kteam1\kteam1\bin\Debug\kteam1.exe
+E:\c#\kteam1\kteam1\bin\Debug\kteam1.pdb
+E:\c#\kteam1\kteam1\obj\Debug\kteam1.csproj.AssemblyReference.cache
+E:\c#\kteam1\kteam1\obj\Debug\kteam1.csproj.CoreCompileInputs.cache
+E:\c#\kteam1\kteam1\obj\Debug\kteam1.exe
+E:\c#\kteam1\kteam1\obj\Debug\kteam1.pdb

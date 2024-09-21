@@ -1,0 +1,4 @@
+E:\c#\giaovien\giaovien\obj\Debug\net7.0\giaovien.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\giaovien\giaovien\obj\Debug\net7.0\giaovien.AssemblyInfoInputs.cache
+E:\c#\giaovien\giaovien\obj\Debug\net7.0\giaovien.AssemblyInfo.cs
+E:\c#\giaovien\giaovien\obj\Debug\net7.0\giaovien.csproj.CoreCompileInputs.cache

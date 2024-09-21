@@ -1,0 +1,14 @@
+E:\c#\thuc_hanh\thuc_hanh\obj\Debug\net7.0\thuc_hanh.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\thuc_hanh\thuc_hanh\obj\Debug\net7.0\thuc_hanh.AssemblyInfoInputs.cache
+E:\c#\thuc_hanh\thuc_hanh\obj\Debug\net7.0\thuc_hanh.AssemblyInfo.cs
+E:\c#\thuc_hanh\thuc_hanh\obj\Debug\net7.0\thuc_hanh.csproj.CoreCompileInputs.cache
+E:\c#\thuc_hanh\thuc_hanh\bin\Debug\net7.0\thuc_hanh.exe
+E:\c#\thuc_hanh\thuc_hanh\bin\Debug\net7.0\thuc_hanh.deps.json
+E:\c#\thuc_hanh\thuc_hanh\bin\Debug\net7.0\thuc_hanh.runtimeconfig.json
+E:\c#\thuc_hanh\thuc_hanh\bin\Debug\net7.0\thuc_hanh.dll
+E:\c#\thuc_hanh\thuc_hanh\bin\Debug\net7.0\thuc_hanh.pdb
+E:\c#\thuc_hanh\thuc_hanh\obj\Debug\net7.0\thuc_hanh.dll
+E:\c#\thuc_hanh\thuc_hanh\obj\Debug\net7.0\refint\thuc_hanh.dll
+E:\c#\thuc_hanh\thuc_hanh\obj\Debug\net7.0\thuc_hanh.pdb
+E:\c#\thuc_hanh\thuc_hanh\obj\Debug\net7.0\thuc_hanh.genruntimeconfig.cache
+E:\c#\thuc_hanh\thuc_hanh\obj\Debug\net7.0\ref\thuc_hanh.dll

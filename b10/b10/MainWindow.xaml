@@ -1,0 +1,36 @@
+﻿<Window x:Class="b10.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:b10"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <StackPanel.Resources>
+            <Image x:Key="copy" Source="Resources/Copy.png" Width="16" Height="16"/>
+            <Image x:Key="cut" Source="Resources/Cut.png" Width="16" Height="16"></Image>
+            <Image x:Key="paste" Source="Resources/Paste.png" Width="16" Height="16"></Image>
+        </StackPanel.Resources>
+        <Menu Height="24" Name="menu1" VerticalAlignment="Top">
+            <MenuItem Header="Thực đơn _1" Name="Menu1">
+                <MenuItem Header="_Copy" Command="ApplicationCommands.Copy" ToolTip="Copy văn bản" Icon="{StaticResource copy}"/>
+                <MenuItem Header="_Cut" Command="ApplicationCommands.Cut" ToolTip="Cắt văn bản" Icon="{StaticResource cut}"/>
+                <MenuItem Header="_Paste" Command="ApplicationCommands.Paste" ToolTip="Dán văn bản" Icon="{StaticResource paste}"/>
+            </MenuItem>
+
+            <MenuItem Header="Thực đơn _2" Name="Menu2">
+                <MenuItem Header="Thực đơn 21">
+                    <MenuItem Header="Thực đơn 211" Click="MenuItem211_Click"/>
+                    <MenuItem Header="Thực đơn 212" Click="MenuItem212_Click" />
+                </MenuItem>
+                <MenuItem Header="Thực đơn 22" Click="MenuItem22_Click"/>
+                <MenuItem Header="Thực đơn 23" IsCheckable="True"/>
+            </MenuItem>
+
+            <MenuItem Header="Thực đơn _3" Name="Menu3" Click="MenuItem3_Click"/>
+        </Menu>
+    </StackPanel>
+    
+
+</Window>

@@ -1,0 +1,17 @@
+E:\c#\wpf-video\wpf-video\bin\Debug\wpf-video.exe.config
+E:\c#\wpf-video\wpf-video\bin\Debug\wpf-video.exe
+E:\c#\wpf-video\wpf-video\bin\Debug\wpf-video.pdb
+E:\c#\wpf-video\wpf-video\obj\Debug\wpf-video.csproj.AssemblyReference.cache
+E:\c#\wpf-video\wpf-video\obj\Debug\MainWindow.g.cs
+E:\c#\wpf-video\wpf-video\obj\Debug\Window1.g.cs
+E:\c#\wpf-video\wpf-video\obj\Debug\App.g.cs
+E:\c#\wpf-video\wpf-video\obj\Debug\wpf-video_MarkupCompile.cache
+E:\c#\wpf-video\wpf-video\obj\Debug\wpf-video_MarkupCompile.lref
+E:\c#\wpf-video\wpf-video\obj\Debug\MainWindow.baml
+E:\c#\wpf-video\wpf-video\obj\Debug\Window1.baml
+E:\c#\wpf-video\wpf-video\obj\Debug\wpf-video.g.resources
+E:\c#\wpf-video\wpf-video\obj\Debug\wpf_video.Properties.Resources.resources
+E:\c#\wpf-video\wpf-video\obj\Debug\wpf-video.csproj.GenerateResource.cache
+E:\c#\wpf-video\wpf-video\obj\Debug\wpf-video.csproj.CoreCompileInputs.cache
+E:\c#\wpf-video\wpf-video\obj\Debug\wpf-video.exe
+E:\c#\wpf-video\wpf-video\obj\Debug\wpf-video.pdb

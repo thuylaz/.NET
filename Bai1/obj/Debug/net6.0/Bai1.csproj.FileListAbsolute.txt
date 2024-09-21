@@ -1,0 +1,59 @@
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 4\Baitap\Baitap\Bai1\obj\Debug\net6.0\Bai1.csproj.AssemblyReference.cache
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 4\Baitap\Baitap\Bai1\obj\Debug\net6.0\Bai1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 4\Baitap\Baitap\Bai1\obj\Debug\net6.0\Bai1.AssemblyInfoInputs.cache
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 4\Baitap\Baitap\Bai1\obj\Debug\net6.0\Bai1.AssemblyInfo.cs
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 4\Baitap\Baitap\Bai1\obj\Debug\net6.0\Bai1.csproj.CoreCompileInputs.cache
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 4\Baitap\Baitap\Bai1\bin\Debug\net6.0\Bai1.exe
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 4\Baitap\Baitap\Bai1\bin\Debug\net6.0\Bai1.deps.json
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 4\Baitap\Baitap\Bai1\bin\Debug\net6.0\Bai1.runtimeconfig.json
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 4\Baitap\Baitap\Bai1\bin\Debug\net6.0\Bai1.dll
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 4\Baitap\Baitap\Bai1\bin\Debug\net6.0\Bai1.pdb
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 4\Baitap\Baitap\Bai1\obj\Debug\net6.0\Bai1.dll
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 4\Baitap\Baitap\Bai1\obj\Debug\net6.0\refint\Bai1.dll
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 4\Baitap\Baitap\Bai1\obj\Debug\net6.0\Bai1.pdb
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 4\Baitap\Baitap\Bai1\obj\Debug\net6.0\Bai1.genruntimeconfig.cache
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 4\Baitap\Baitap\Bai1\obj\Debug\net6.0\ref\Bai1.dll
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 5\Baitap\Bai1\bin\Debug\net6.0\Bai1.exe
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 5\Baitap\Bai1\bin\Debug\net6.0\Bai1.deps.json
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 5\Baitap\Bai1\bin\Debug\net6.0\Bai1.runtimeconfig.json
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 5\Baitap\Bai1\bin\Debug\net6.0\Bai1.dll
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 5\Baitap\Bai1\bin\Debug\net6.0\Bai1.pdb
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 5\Baitap\Bai1\obj\Debug\net6.0\Bai1.csproj.AssemblyReference.cache
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 5\Baitap\Bai1\obj\Debug\net6.0\Bai1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 5\Baitap\Bai1\obj\Debug\net6.0\Bai1.AssemblyInfoInputs.cache
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 5\Baitap\Bai1\obj\Debug\net6.0\Bai1.AssemblyInfo.cs
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 5\Baitap\Bai1\obj\Debug\net6.0\Bai1.csproj.CoreCompileInputs.cache
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 5\Baitap\Bai1\obj\Debug\net6.0\Bai1.dll
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 5\Baitap\Bai1\obj\Debug\net6.0\refint\Bai1.dll
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 5\Baitap\Bai1\obj\Debug\net6.0\Bai1.pdb
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 5\Baitap\Bai1\obj\Debug\net6.0\Bai1.genruntimeconfig.cache
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 5\Baitap\Bai1\obj\Debug\net6.0\ref\Bai1.dll
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 6\BaiTap\Bai1\bin\Debug\net6.0\Bai1.exe
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 6\BaiTap\Bai1\bin\Debug\net6.0\Bai1.deps.json
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 6\BaiTap\Bai1\bin\Debug\net6.0\Bai1.runtimeconfig.json
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 6\BaiTap\Bai1\bin\Debug\net6.0\Bai1.dll
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 6\BaiTap\Bai1\bin\Debug\net6.0\Bai1.pdb
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 6\BaiTap\Bai1\obj\Debug\net6.0\Bai1.csproj.AssemblyReference.cache
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 6\BaiTap\Bai1\obj\Debug\net6.0\Bai1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 6\BaiTap\Bai1\obj\Debug\net6.0\Bai1.AssemblyInfoInputs.cache
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 6\BaiTap\Bai1\obj\Debug\net6.0\Bai1.AssemblyInfo.cs
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 6\BaiTap\Bai1\obj\Debug\net6.0\Bai1.csproj.CoreCompileInputs.cache
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 6\BaiTap\Bai1\obj\Debug\net6.0\Bai1.dll
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 6\BaiTap\Bai1\obj\Debug\net6.0\refint\Bai1.dll
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 6\BaiTap\Bai1\obj\Debug\net6.0\Bai1.pdb
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 6\BaiTap\Bai1\obj\Debug\net6.0\Bai1.genruntimeconfig.cache
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 6\BaiTap\Bai1\obj\Debug\net6.0\ref\Bai1.dll
+E:\c#\Bai1\bin\Debug\net6.0\Bai1.exe
+E:\c#\Bai1\bin\Debug\net6.0\Bai1.deps.json
+E:\c#\Bai1\bin\Debug\net6.0\Bai1.runtimeconfig.json
+E:\c#\Bai1\bin\Debug\net6.0\Bai1.dll
+E:\c#\Bai1\bin\Debug\net6.0\Bai1.pdb
+E:\c#\Bai1\obj\Debug\net6.0\Bai1.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\Bai1\obj\Debug\net6.0\Bai1.AssemblyInfoInputs.cache
+E:\c#\Bai1\obj\Debug\net6.0\Bai1.AssemblyInfo.cs
+E:\c#\Bai1\obj\Debug\net6.0\Bai1.csproj.CoreCompileInputs.cache
+E:\c#\Bai1\obj\Debug\net6.0\Bai1.dll
+E:\c#\Bai1\obj\Debug\net6.0\refint\Bai1.dll
+E:\c#\Bai1\obj\Debug\net6.0\Bai1.pdb
+E:\c#\Bai1\obj\Debug\net6.0\Bai1.genruntimeconfig.cache
+E:\c#\Bai1\obj\Debug\net6.0\ref\Bai1.dll

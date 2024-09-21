@@ -1,0 +1,7 @@
+E:\c#\tx11\tx11\obj\Debug\tx11.csproj.AssemblyReference.cache
+E:\c#\tx11\tx11\obj\Debug\tx11.csproj.CoreCompileInputs.cache
+E:\c#\tx11\tx11\bin\Debug\tx11.exe.config
+E:\c#\tx11\tx11\bin\Debug\tx11.exe
+E:\c#\tx11\tx11\bin\Debug\tx11.pdb
+E:\c#\tx11\tx11\obj\Debug\tx11.exe
+E:\c#\tx11\tx11\obj\Debug\tx11.pdb

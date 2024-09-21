@@ -1,0 +1,29 @@
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 6\BaiTap\Bai3\bin\Debug\net6.0\Bai3.exe
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 6\BaiTap\Bai3\bin\Debug\net6.0\Bai3.deps.json
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 6\BaiTap\Bai3\bin\Debug\net6.0\Bai3.runtimeconfig.json
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 6\BaiTap\Bai3\bin\Debug\net6.0\Bai3.dll
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 6\BaiTap\Bai3\bin\Debug\net6.0\Bai3.pdb
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 6\BaiTap\Bai3\obj\Debug\net6.0\Bai3.csproj.AssemblyReference.cache
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 6\BaiTap\Bai3\obj\Debug\net6.0\Bai3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 6\BaiTap\Bai3\obj\Debug\net6.0\Bai3.AssemblyInfoInputs.cache
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 6\BaiTap\Bai3\obj\Debug\net6.0\Bai3.AssemblyInfo.cs
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 6\BaiTap\Bai3\obj\Debug\net6.0\Bai3.csproj.CoreCompileInputs.cache
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 6\BaiTap\Bai3\obj\Debug\net6.0\Bai3.dll
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 6\BaiTap\Bai3\obj\Debug\net6.0\refint\Bai3.dll
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 6\BaiTap\Bai3\obj\Debug\net6.0\Bai3.pdb
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 6\BaiTap\Bai3\obj\Debug\net6.0\Bai3.genruntimeconfig.cache
+C:\Users\Long Linh\Dropbox\Hoang-private\HaUI\Khoa-CNTT\Bai-giang\Lap-trinh-dotNet\Bai-giang\Bai 6\BaiTap\Bai3\obj\Debug\net6.0\ref\Bai3.dll
+E:\c#\Bai3\bin\Debug\net6.0\Bai3.exe
+E:\c#\Bai3\bin\Debug\net6.0\Bai3.deps.json
+E:\c#\Bai3\bin\Debug\net6.0\Bai3.runtimeconfig.json
+E:\c#\Bai3\bin\Debug\net6.0\Bai3.dll
+E:\c#\Bai3\bin\Debug\net6.0\Bai3.pdb
+E:\c#\Bai3\obj\Debug\net6.0\Bai3.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\Bai3\obj\Debug\net6.0\Bai3.AssemblyInfoInputs.cache
+E:\c#\Bai3\obj\Debug\net6.0\Bai3.AssemblyInfo.cs
+E:\c#\Bai3\obj\Debug\net6.0\Bai3.csproj.CoreCompileInputs.cache
+E:\c#\Bai3\obj\Debug\net6.0\Bai3.dll
+E:\c#\Bai3\obj\Debug\net6.0\refint\Bai3.dll
+E:\c#\Bai3\obj\Debug\net6.0\Bai3.pdb
+E:\c#\Bai3\obj\Debug\net6.0\Bai3.genruntimeconfig.cache
+E:\c#\Bai3\obj\Debug\net6.0\ref\Bai3.dll

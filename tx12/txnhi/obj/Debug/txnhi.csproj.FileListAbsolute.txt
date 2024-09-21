@@ -1,0 +1,7 @@
+E:\c#\tx12\txnhi\bin\Debug\txnhi.exe.config
+E:\c#\tx12\txnhi\bin\Debug\txnhi.exe
+E:\c#\tx12\txnhi\bin\Debug\txnhi.pdb
+E:\c#\tx12\txnhi\obj\Debug\txnhi.csproj.AssemblyReference.cache
+E:\c#\tx12\txnhi\obj\Debug\txnhi.csproj.CoreCompileInputs.cache
+E:\c#\tx12\txnhi\obj\Debug\txnhi.exe
+E:\c#\tx12\txnhi\obj\Debug\txnhi.pdb

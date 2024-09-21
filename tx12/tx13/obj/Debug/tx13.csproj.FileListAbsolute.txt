@@ -1,0 +1,7 @@
+E:\c#\tx12\tx13\bin\Debug\tx13.exe.config
+E:\c#\tx12\tx13\bin\Debug\tx13.exe
+E:\c#\tx12\tx13\bin\Debug\tx13.pdb
+E:\c#\tx12\tx13\obj\Debug\tx13.csproj.AssemblyReference.cache
+E:\c#\tx12\tx13\obj\Debug\tx13.csproj.CoreCompileInputs.cache
+E:\c#\tx12\tx13\obj\Debug\tx13.exe
+E:\c#\tx12\tx13\obj\Debug\tx13.pdb

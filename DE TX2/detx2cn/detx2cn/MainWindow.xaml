@@ -1,0 +1,59 @@
+﻿<Window x:Class="detx2cn.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:detx2cn"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.Resources>
+        <ControlTemplate x:Key="btt" TargetType="Button">
+            <Grid>
+                <Ellipse Fill="Gray"/>
+                <ContentPresenter HorizontalAlignment="Center" />
+            </Grid>
+        </ControlTemplate>
+        <Style x:Key="text" TargetType="TextBox">
+            <Setter Property="FontFamily" Value="Times New Roman"/>
+            <Setter Property="Foreground" Value="red"/>
+        </Style>
+        <Style x:Key="cb" TargetType="ComboBox">
+            <Setter Property="FontFamily" Value="Times New Roman"/>
+            <Setter Property="Foreground" Value="Red"/>
+        </Style>
+        <Style x:Key="dtghd" TargetType="DataGridColumnHeader">
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Label Content="Mã sinh viên" HorizontalAlignment="Left" Margin="45,18,0,0" VerticalAlignment="Top" FontSize="15"/>
+        <Label Content="Họ tên" HorizontalAlignment="Left" Margin="45,63,0,0" VerticalAlignment="Top" FontSize="15" RenderTransformOrigin="-0.374,-0.304"/>
+        <Label Content="Số lần xuất sắc" HorizontalAlignment="Left" Margin="45,110,0,0" VerticalAlignment="Top" FontSize="15"/>
+        <Label Content="Khoa/Trung tâm" HorizontalAlignment="Left" Margin="45,158,0,0" VerticalAlignment="Top" FontSize="15"/>
+        <Button Content="Thêm" HorizontalAlignment="Left" Template="{StaticResource btt}" Margin="212,373,0,0" VerticalAlignment="Top" Width="86" FontSize="15" Click="them_Click"/>
+        <Button Content="Tìm" HorizontalAlignment="Left" Template="{StaticResource btt}" Margin="400,373,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.82,-1.006" FontSize="15" Width="95" Click="tim_Click"/>
+        <TextBox x:Name="txtmasv" HorizontalAlignment="Left" Style="{StaticResource text}" Margin="195,22,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="205" FontSize="15"/>
+        <TextBox x:Name="txthoten" HorizontalAlignment="Left" Style="{StaticResource text}" Margin="195,67,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="205" FontSize="15"/>
+        <TextBox x:Name="txtsolan" HorizontalAlignment="Left" Style="{StaticResource text}" Margin="195,114,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="205" FontSize="15"/>
+        <ComboBox x:Name="cbkhoa" HorizontalAlignment="Left" Margin="195,160,0,0" VerticalAlignment="Top" Width="205" FontSize="15" Style="{StaticResource cb}">
+            <ComboBoxItem>1</ComboBoxItem>
+            <ComboBoxItem>2</ComboBoxItem>
+            <ComboBoxItem>3</ComboBoxItem>
+        </ComboBox>
+        <DataGrid x:Name="dtg1" Margin="66,199,66,83" HorizontalAlignment="Center" AutoGenerateColumns="False" SelectionMode="Single" SelectionUnit="FullRow" SelectionChanged="dtg1_SelectionChanged">
+            <DataGrid.Resources>
+                <Style TargetType="DataGridColumnHeader">
+                    <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                </Style>
+            </DataGrid.Resources>
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="MaSV" Binding="{Binding masv}" Width="*"/>
+                <DataGridTextColumn Header="Họ tên" Binding="{Binding hoten}" Width="*"/>
+                <DataGridTextColumn Header="Số lần XS" Binding="{Binding solanxs}" Width="*"/>
+                <DataGridTextColumn Header="Khoa/TT" Binding="{Binding tenkhoa}" Width="*"/>
+                <DataGridTextColumn Header="Tiền thưởng" Binding="{Binding tienthuong}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+    </Grid>
+</Window>

@@ -1,0 +1,5 @@
+﻿  cd.cpp
+E:\c#\cd\cd\cd.cpp(10,35): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+E:\c#\cd\cd\cd.cpp(14,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\c#\cd\cd\cd.cpp(27): warning C4715: 'chiadoi': not all control paths return a value
+  cd.vcxproj -> E:\c#\cd\x64\Debug\cd.exe

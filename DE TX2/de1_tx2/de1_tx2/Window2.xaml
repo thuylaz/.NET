@@ -1,0 +1,27 @@
+﻿<Window x:Class="de1_tx2.Window2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:de1_tx2"
+        mc:Ignorable="d"
+        Title="Window2" Height="450" Width="800" Loaded="Window2_Load">
+    <Grid>
+        <Label Content="Thông tin nhân viên" HorizontalAlignment="Center" Margin="0,25,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.274,-0.284" FontFamily="Times New Roman" FontSize="25" Foreground="#FF001CFF"/>
+        <Label Content="Họ tên nhân viên" Margin="105,106,0,0" FontFamily="Times New Roman" FontSize="20" HorizontalAlignment="Left" VerticalAlignment="Top" Height="36" Width="163"/>
+        <Label Content="Loại nhân viên" Margin="105,161,0,0" FontFamily="Times New Roman" FontSize="20" HorizontalAlignment="Left" VerticalAlignment="Top" Height="36" Width="143"/>
+        <Label Content="Ngày sinh" Margin="105,212,0,0" FontFamily="Times New Roman" FontSize="20" HorizontalAlignment="Left" VerticalAlignment="Top" Height="35" Width="101"/>
+        <Label Content="Số tiền bán hàng" Margin="105,265,0,0" FontFamily="Times New Roman" FontSize="20" HorizontalAlignment="Left" VerticalAlignment="Top" Height="36" Width="159"/>
+        <TextBox x:Name="txthoten2" HorizontalAlignment="Center" Margin="0,110,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="222" RenderTransformOrigin="-0.317,-0.159" FontFamily="Times New Roman" FontSize="20" Height="27"/>
+        <TextBox x:Name="txttien2" HorizontalAlignment="Left" Margin="289,273,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="134" RenderTransformOrigin="-0.317,-0.159" FontFamily="Times New Roman" FontSize="20" Height="28"/>
+
+        <DatePicker x:Name="datengay2" HorizontalAlignment="Left" Margin="289,217,0,0" VerticalAlignment="Top" Width="215" RenderTransformOrigin="0.387,0.535" Height="26"/>
+        <ComboBox x:Name="cboloai2" HorizontalAlignment="Left" Margin="289,168,0,0" VerticalAlignment="Top" Width="134" SelectedIndex="0" Height="24">
+            <ComboBoxItem Content="Cơ hữu"/>
+            <ComboBoxItem Content="Hợp đồng"/>
+            <ComboBoxItem Content="Cộng tác viên"/>
+        </ComboBox>
+        <Button x:Name="butthoat" Content="Thoát" HorizontalAlignment="Left" Margin="335,332,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="20" Width="65" />
+
+    </Grid>
+</Window>

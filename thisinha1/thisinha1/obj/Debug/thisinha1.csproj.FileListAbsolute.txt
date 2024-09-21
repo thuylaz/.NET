@@ -1,0 +1,7 @@
+E:\c#\thisinha1\thisinha1\bin\Debug\thisinha1.exe.config
+E:\c#\thisinha1\thisinha1\bin\Debug\thisinha1.exe
+E:\c#\thisinha1\thisinha1\bin\Debug\thisinha1.pdb
+E:\c#\thisinha1\thisinha1\obj\Debug\thisinha1.csproj.AssemblyReference.cache
+E:\c#\thisinha1\thisinha1\obj\Debug\thisinha1.csproj.CoreCompileInputs.cache
+E:\c#\thisinha1\thisinha1\obj\Debug\thisinha1.exe
+E:\c#\thisinha1\thisinha1\obj\Debug\thisinha1.pdb
